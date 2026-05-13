@@ -1,0 +1,7 @@
+name: MoreSpearing
+version: 1.0
+main: com.devzenith.morespearing.MoreSpearing
+api-version: 1.21
+authors: [Dev Zenith]
+description: Adjusts spear cooldowns with visual effects.
+
